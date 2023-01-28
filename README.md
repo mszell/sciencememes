@@ -16,6 +16,11 @@ A popular visual meme created by manchildmanor.com, adapted to academia with the
 
 ![PhD Calling](images/202210phdcalling.png "Comic showing two men talking. Left man, with nice shirt and haircut: This is an underpaid PhD, but academia is a calling. Right man, looking worn down, folding hands and looking up: Oh that's perfect! My rent is actually 800 callings!")
 
+## 2022-01: Mobility report
+Application of the popular Drake meme to my 2021 Google mobility report which shows a lot of cycling but also thousands of km of air travel, ending with the title of the paper [*Air Travel and Urbanity: The Role of Migration, Social Networks, Airport Accessibility, and ‘Rebound’*](https://www.cogitatiopress.com/urbanplanning/article/view/3983) which describes this phenomenon.
+
+![Mobility report](images/202201mobilityreport.png "Applying the popular Drake meme to my 2021 Google mobility report which shows a lot of cycling but also thousands of km of air travel, ending with the title of the paper Air Travel and Urbanity: The Role of Migration, Social Networks, Airport Accessibility, and ‘Rebound’ which describes this phenomenon.")
+
 ## 2021-09: Cure the disease
 A provocative sketch depicting one of the biggest problems in cities and how to cure it.
 
