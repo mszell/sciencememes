@@ -16,6 +16,11 @@ A popular visual meme created by manchildmanor.com, adapted to academia with the
 
 ![PhD Calling](images/202210phdcalling.png "Comic showing two men talking. Left man, with nice shirt and haircut: This is an underpaid PhD, but academia is a calling. Right man, looking worn down, folding hands and looking up: Oh that's perfect! My rent is actually 800 callings!")
 
+## 2022-09: Alien test
+A slide from a lecture on sustainable mobility, introducing the "alien test": If an alien visits earth and gets *completely* confused by your statement, then probably something is wrong with it.
+
+![Alien test](images/202209alientest.png "A slide titled 'Denmark is a cycling nation', showing an alien getting confused by the distribution of budgets for cycling (3bn DKK) and new roads (64bn DKK). This is the alien test: If an alien visits earth and gets completely confused by your statement, then probably something is wrong with it.")
+
 ## 2022-01: Mobility report
 Application of the popular Drake meme to my 2021 Google mobility report which shows a lot of cycling but also thousands of km of air travel, ending with the title of the paper [*Air Travel and Urbanity: The Role of Migration, Social Networks, Airport Accessibility, and ‘Rebound’*](https://www.cogitatiopress.com/urbanplanning/article/view/3983) which describes this phenomenon.
 
