@@ -1,6 +1,12 @@
 # Science Memes
 This is a collection of science-inspired visual memes I have created. All images were created or postprocessed via keynote: [sciencememes.key](sciencememes.key)
 
+## 2023-03: Implementing Car-Free Cities: Information Cycle
+Beautification of Fig.11.2 from the book chapter [Implementing Car-Free Cities: Rationale, Requirements, Barriers and Facilitators](https://link.springer.com/chapter/10.1007/978-3-319-74983-9_11) by Nieuwenhuijsen et al. The figure caption reads "Information cycle related to support for change towards car-free cities".
+
+![Implementing Car-Free Cities: Information Cycle](images/202303carfreecitiesinfo.png "Information cycle related to support for change towards car-free cities. Adapted from Nieuwenhuijsen et al., Integrating Human Health into Urban and Transport Planning, Ch. 11 (2019).")
+
+
 ## 2023-01: Cyclist desire lines
 A visualization of designed and actual paths for cyclists on a busy Danish intersection, following the paper [*Computational Desire Line Analysis of Cyclists on the Dybbølsbro Intersection in Copenhagen*](https://findingspress.org/article/56683-computational-desire-line-analysis-of-cyclists-on-the-dybbolsbro-intersection-in-copenhagen). Source: [https://github.com/SimonBreum/desirelines](https://github.com/SimonBreum/desirelines)
 
