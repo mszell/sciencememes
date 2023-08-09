@@ -1,6 +1,17 @@
 # Science Memes
 This is a collection of science-inspired visual memes I have created. All images were created or postprocessed via keynote: [sciencememes.key](sciencememes.key)
 
+## 2023-08: Google maps "car-brained" routing
+Comparison of Google maps' suggested routes for cycling.
+
+Between the choices:  
+A - Fastest (14 min), Shortest (4.0 km), 30% green, 50% next to cars  
+B - Slowest (16 min), Longest (4.8 km), 5% green, 95% next to cars
+
+Google maps ranks route B "best" (1st), while route A is ranked worst (3rd).
+
+![Google maps car-brained routing](images/202308googlebikerouting.png "Comparison of Google maps' suggested routes for cycling.")
+
 ## 2023-03: Implementing Car-Free Cities: Information Cycle
 Beautification of Fig.11.2 from the book chapter [Implementing Car-Free Cities: Rationale, Requirements, Barriers and Facilitators](https://link.springer.com/chapter/10.1007/978-3-319-74983-9_11) by Nieuwenhuijsen et al. The figure caption reads "Information cycle related to support for change towards car-free cities".
 
