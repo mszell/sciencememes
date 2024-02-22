@@ -1,6 +1,11 @@
 # Science Memes
 This is a collection of science-inspired visual memes I have created. All images were created or postprocessed via keynote: [sciencememes.key](sciencememes.key)
 
+## 2024-02: Deaths from Wars & Cars
+Visualization of the largest death tolls from human wars compared to cars, inspired by the great paper [Car harm: A global review of automobility's harm to people and the environment](https://www.sciencedirect.com/science/article/pii/S0966692324000267). War death tolls are taken from wikipedia, the bar chart reports midpoints of estimates (for example, WW2 has 70-85M deaths, so (70+85)/2 ≈ 78). Thanks to Anastassia Vybornova for feedback.
+
+![Deaths from Wars & Cars](images/202402deathsfromwarscars.png "Deaths from Wars & Cars")
+
 ## 2023-08: Google maps "car-brained" routing
 Comparison of Google maps' suggested routes for cycling.
 
